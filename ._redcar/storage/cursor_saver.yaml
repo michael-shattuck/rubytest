@@ -1,0 +1,93 @@
+--- 
+cursor_positions: 
+  - :path: config/application.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.349000 -07:00
+  - :path: config/boot.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:21.629000 -07:00
+  - :path: config/environments/test.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.395000 -07:00
+  - :path: config/environments/production.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.384000 -07:00
+  - :path: config/environments/development.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.372000 -07:00
+  - :path: config/initializers/backtrace_silencers.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.404000 -07:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.218000 -07:00
+  - :path: Rakefile
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.150000 -07:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 59
+    :timestamp: 2013-01-19 14:59:42.817000 -07:00
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.152000 -07:00
+  - :path: db/development.sqlite3
+    :cursor_offset: 0
+    :timestamp: 2013-01-20 02:24:22.452000 -07:00
+  - :path: app/assets/javascripts/welcome.js.coffee
+    :cursor_offset: 89
+    :timestamp: 2013-01-19 15:18:27.426000 -07:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 234
+    :timestamp: 2013-01-19 15:14:13.337000 -07:00
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.288000 -07:00
+  - :path: config/locales/en.yml
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:21.627000 -07:00
+  - :path: app/assets/stylesheets/posts.css.scss
+    :cursor_offset: 0
+    :timestamp: 2013-01-20 02:20:02.660000 -07:00
+  - :path: app/assets/javascripts/posts.js.coffee
+    :cursor_offset: 0
+    :timestamp: 2013-01-20 02:20:02.284000 -07:00
+  - :path: db/migrate/20130120092001_create_posts.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-20 02:20:01.436000 -07:00
+  - :path: app/helpers/welcome_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:59:42.976000 -07:00
+  - :path: app/helpers/application_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.293000 -07:00
+  - :path: app/helpers/posts_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-20 02:20:02.136000 -07:00
+  - :path: config/database.yml
+    :cursor_offset: 186
+    :timestamp: 2013-01-19 14:27:21.632000 -07:00
+  - :path: app/models/post.rb
+    :cursor_offset: 205
+    :timestamp: 2013-01-20 02:47:19.512000 -07:00
+  - :path: app/controllers/posts_controller.rb
+    :cursor_offset: 234
+    :timestamp: 2013-01-20 02:20:01.731000 -07:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 91
+    :timestamp: 2013-01-20 02:30:51.015000 -07:00
+  - :path: config/environment.rb
+    :cursor_offset: 0
+    :timestamp: 2013-01-19 14:27:20.357000 -07:00
+  - :path: Gemfile
+    :cursor_offset: 426
+    :timestamp: 2013-01-20 02:06:42.707000 -07:00
+  - :path: config/routes.rb
+    :cursor_offset: 1071
+    :timestamp: 2013-01-20 13:20:18.782000 -07:00
+  - :path: app/models/micropost.rb
+    :cursor_offset: 154
+    :timestamp: 2013-01-20 13:23:50.560000 -07:00
+  - :path: app/models/user.rb
+    :cursor_offset: 54
+    :timestamp: 2013-01-20 13:23:33.072000 -07:00
+files_to_retain: 0
